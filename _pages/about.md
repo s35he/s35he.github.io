@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Department of Epidemiology and Biostatistics at McGill University, supervised by Dr. Mabel Carabali and Dr. Paul Gastafson at UBC. I hold a PhD in Statistics from the University of Waterloo, supervised by Dr. Samuel WK Wong. My research interest lies at the intersection of Bayesian methodology, spatio-temporal statistics, and data-driven applications in environmental and public health.
+I am a postdoctoral researcher in the Department of Epidemiology and Biostatistics at McGill University, working under the supervision of Dr. Mabel Carabali and Dr. Paul Gastafson at UBC. I hold a PhD in Statistics from the University of Waterloo, supervised by Dr. Samuel WK Wong. My research interest lies at the intersection of Bayesian methodology, spatio-temporal statistics, and data-driven applications in environmental and public health.
 
 
 For more info
