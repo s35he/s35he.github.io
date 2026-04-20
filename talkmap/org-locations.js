@@ -5,9 +5,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Statistical Challenges in the Analysis of Sequence and Structure Data for the COVID- 19 Spike Protein.<br />University of Waterloo, Department of Statistics and Actuarial Science; Waterloo, CA",
+    43.4652699,
+    -80.5222961
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
